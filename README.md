@@ -2,17 +2,12 @@
 title: README
 description: 
 published: true
-date: 2024-06-13T09:54:44.348Z
+date: 2024-06-13T10:11:34.943Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-13T09:37:08.466Z
 ---
 
-# techwatch
+# DigiPres Notebook
 
-This section contains some experiments in importing content into GitBook. For example taking DOCX source files and generating HTML versions using [pandoc](https://pandoc.org/).
-
-```
-pandoc source.docx -o target.md --wrap=none -t commonmark_x --extract-media=.
-```
-
+This is my set of public notes on issues relating to digital preservation.
