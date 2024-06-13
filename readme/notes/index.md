@@ -1,3 +1,13 @@
+---
+title: index
+description: 
+published: true
+date: 2024-06-13T09:37:16.442Z
+tags: 
+editor: markdown
+dateCreated: 2024-06-13T09:37:14.244Z
+---
+
 # Wikidata for Digital Preservationists
 
 ![](../../techwatch/notes/wikidata-for-digital-preservationists/media/image1.jpeg) ![](../../techwatch/notes/wikidata-for-digital-preservationists/media/image2.png)
