@@ -10,7 +10,7 @@ dateCreated: 2024-06-13T09:37:14.244Z
 
 # Wikidata for Digital Preservationists
 
-![](../../techwatch/notes/wikidata-for-digital-preservationists/media/image1.jpeg) ![](../../techwatch/notes/wikidata-for-digital-preservationists/media/image2.png)
+![](./media/image1.jpeg) ![](./media/image2.png)
 
 ## Introduction
 
@@ -30,7 +30,7 @@ The Wikidata community maintains a public SPARQL endpoint. SPARQL is a query lan
 
 ## Data Model
 
-The core of the Wikidata data model ([_MediaWiki_](https://www.mediawiki.org/wiki/Wikibase/DataModel), 2021) consists of items and properties. Properties are used to express statements about items. In Figure 1, we see a screenshot of the Wikidata page for item: “JPEG File Interchange Format, version 1.02”. Each item is allotted a page in Wikidata and has a unique identifier, with prefix “Q” plus a string of numbers which is assigned to this item. The two properties “instance of” and “part of” are used to assert statements about the item. A claim and its references are a “statement”. Sets of properties are not pre-defined for classes in Wikidata. Editors may freely select properties to express statements on Wikidata items.![](../../techwatch/notes/wikidata-for-digital-preservationists/media/image3.jpeg)
+The core of the Wikidata data model ([_MediaWiki_](https://www.mediawiki.org/wiki/Wikibase/DataModel), 2021) consists of items and properties. Properties are used to express statements about items. In Figure 1, we see a screenshot of the Wikidata page for item: “JPEG File Interchange Format, version 1.02”. Each item is allotted a page in Wikidata and has a unique identifier, with prefix “Q” plus a string of numbers which is assigned to this item. The two properties “instance of” and “part of” are used to assert statements about the item. A claim and its references are a “statement”. Sets of properties are not pre-defined for classes in Wikidata. Editors may freely select properties to express statements on Wikidata items.![](./media/image3.jpeg)
 
 > Figure 1: Example of Wikidata properties
 
