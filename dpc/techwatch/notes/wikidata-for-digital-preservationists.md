@@ -1,8 +1,8 @@
 ---
-title: index
+title: Wikidata for Digital Preservationists
 description: 
 published: true
-date: 2024-06-13T09:54:53.522Z
+date: 2024-06-13T09:58:07.496Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-13T09:37:14.244Z
