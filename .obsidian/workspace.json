@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acorn-migrations.md",
+                "file": "automated-actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "acorn-migrations.md",
+                "file": "automated-actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "acorn-migrations.md",
+                "file": "automated-actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "acorn-migrations.md"
+                "file": "automated-actions.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "8b8dd0aed45b9b13",
   "lastOpenFiles": [
-    "automated-actions.md",
     "acorn-migrations.md",
     "home.md",
+    "automated-actions.md",
     "README.md"
   ]
 }

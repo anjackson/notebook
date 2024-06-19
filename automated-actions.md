@@ -1,3 +1,6 @@
+---
+title: Automating Actions
+---
 Some notes on automation that might help implement more complication preservation actions, e.g. doing things in desktop applications.
 
 - WinAppDriver
