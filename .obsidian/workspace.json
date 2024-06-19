@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "automated-actions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d10e4eb4ab45f476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "registries/pronom.md",
+                "file": "registries.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "registries/pronom.md",
+                "file": "registries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "registries/pronom.md",
+                "file": "registries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "registries/pronom.md"
+                "file": "registries.md"
               }
             }
           }
@@ -183,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d10e4eb4ab45f476",
+  "active": "8b8dd0aed45b9b13",
   "lastOpenFiles": [
+    "automated-actions.md",
+    "registries/pronom.md",
     "registries.md",
     "playgrounds.md",
-    "automated-actions.md",
     "acorn-migrations.md",
     "home.md",
     "README.md"
