@@ -1,0 +1,5 @@
+- Static Sites:
+	- https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/gh-walkthrough/
+- Web Archive works:
+	- ...
+- 

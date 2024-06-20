@@ -25,3 +25,4 @@ This is a site for managing my notes on digital preservation.
   - [McKinsey Digital - Demystifying digital dark matter: A new standard to tame technical debt](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/demystifying-digital-dark-matter-a-new-standard-to-tame-technical-debt)
 - A/V:
     - This [Caring for Audiovisual Material](https://connectingtocollections.org/av/) course is an interesting example of material that's difficult to discover. Only thanks to [this mailing list conversation](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A2=DIGITAL-PRESERVATION;eb38e0c8.2406) do we find out that Webinar 3's [colour handout](http://www.connectingtocollections.org/wp-content/uploads/2015/06/AV3ColorREV.pdf) has useful information and images, from page 97 onwards!
+- 
