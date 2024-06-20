@@ -18,11 +18,15 @@ This is a site for managing my notes on digital preservation.
 ## Incoming
 
 
-- Techincal Debt:
+- Technical Debt:
 	- Perhaps a way to frame choices that are easy over the short term, but have long-term consequences. e.g. Proprietary dependencies.
   - [Notes on the Clear Blue Yonder: Technical Debt and Digital Preservation](https://www.dpconline.org/blog/notes-on-the-clear-blue-yonder-technical-debt-and-digital-preservation)
   - [McKinsey Digital - Tech debt: Reclaiming tech equity](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-debt-reclaiming-tech-equity)
   - [McKinsey Digital - Demystifying digital dark matter: A new standard to tame technical debt](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/demystifying-digital-dark-matter-a-new-standard-to-tame-technical-debt)
 - A/V:
     - This [Caring for Audiovisual Material](https://connectingtocollections.org/av/) course is an interesting example of material that's difficult to discover. Only thanks to [this mailing list conversation](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A2=DIGITAL-PRESERVATION;eb38e0c8.2406) do we find out that Webinar 3's [colour handout](http://www.connectingtocollections.org/wp-content/uploads/2015/06/AV3ColorREV.pdf) has useful information and images, from page 97 onwards!
-- 
+- P2P Tools for Digital Preservation:
+	- Especially WebRTC as no stuff needed.
+	- https://github.com/feross/simple-peer?tab=readme-ov-file#who-is-using-simple-peer
+	- https://instant.io/
+	- https://conclave-team.github.io/conclave-site/ collaborative editor
