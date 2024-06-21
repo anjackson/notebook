@@ -14,6 +14,8 @@ As part of the [Registries of Good Practice project](https://github.com/digipres
 
 The main list of resources is in the [Digital Preservation Awesome List](https://github.com/digipres/awesome-digital-preservation#readme), but some of those items link here to add more detailed context and some historical information.
 
+- MISSING: Representation Information !?!?!
+
 
 <iframe src="https://www.tldraw.com/v/mTxpCT7vGqBnNeCB6BSkozz?p=i8xOfrpl1FPcAGOhYZUVx&v=-371,-369,1461,1462" width="100%" height="500px"></iframe>
 
