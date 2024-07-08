@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cab27a83a64eada4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef9518570201bbf9",
+  "active": "cab27a83a64eada4",
   "lastOpenFiles": [
     "playgrounds.md",
     "registries.md",
