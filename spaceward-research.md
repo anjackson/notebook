@@ -13,14 +13,14 @@ Certainly, [it's too late to contact his co-founder Gary Lucas](https://x.com/mo
 ## Hall of Fame
 
 > - **Spaceward Microsystems Ltd** Founder: **Mike Kemp**
-    Founded in 1983, Spaceward Microsystems Ltd manufactured computer graphics equipment for the TV industry.
- >   
+> Founded in 1983, Spaceward Microsystems Ltd manufactured computer graphics equipment for the TV industry.
+>   
 > - **Spaceward Studios** Co-founder: **Mike Kemp**
-    Founded in 1972, Spaceward Studios was first a 16 then a 24 track recording 
-    studio in Cambridge, UK.
-  >  
-    [Companies started by Computer Science and Technology graduates and staff](https://www.cst.cam.ac.uk/ring/halloffame)
-    Department of Computer Science and Technology, University of Cambridge.
+> Founded in 1972, Spaceward Studios was first a 16 then a 24 track recording studio in Cambridge, UK.
+> 
+> [Companies started by Computer Science and Technology graduates and staff](https://www.cst.cam.ac.uk/ring/halloffame)
+> Department of Computer Science and Technology, University of Cambridge.
+
 ## Quantel vs Spaceward
 
 > "Spaceward lost the case, lost their product, and I was officially branded a liar in Falconer’s decision." 
