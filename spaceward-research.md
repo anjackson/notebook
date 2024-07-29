@@ -34,7 +34,11 @@ Certainly, [it's too late to contact his co-founder Gary Lucas](https://x.com/mo
 
 ## Knightmare
 
-- [How Did the Visual Effects Work?l](https://www.knightmare.com/backstage/knightmare-made/how-effects-work.html)
+Prominent user of Spaceward kit.
+
+- [How Did the Visual Effects Work?](https://www.knightmare.com/backstage/knightmare-made/how-effects-work.html)
+- [Computer Images Magazine, which ran from the mid-to-late 1980s, examined how Knightmare was made after Series 1.](https://www.knightmare.com/fanzone/coverage/print/knightmare-1987.html)
+- [How Knightmare Began - Part 1](https://www.knightmare.com/backstage/history/part-1.html)
 ## Satori Paint
 
 According to http://justsolve.archiveteam.org/wiki/Spaceward_Graphics and `dexvert` it seems Satori Paint can at least read `.rir` files and possibly `.r` files. I'm not sure about `.r` but the _Resolution Independent Raster_ files seem to be an interesting early vector image format, so converting those to e.g. TIFF would be quite lossy (although better than nothing). Possibly SVG is a better option. 
@@ -52,4 +56,10 @@ Hard to tell, the format is not easy to understand. I attempted a little reverse
 
 ## Spaceward Studios
 
-There's a bit more online about 
+There's a bit more online about the music company.
+
+- [Sintefex Audio: Spaceward Studios Retrospective](http://www.sintefex.com/?targ=spst81&src=links)
+- [Studio Focus: Spaceward Studios, Cambridge](https://www.muzines.co.uk/articles/studio-focus/2782)
+- [Spaceward Studios 1972-1988](https://web.archive.org/web/20130114003814/http://www.spacewardstudios.ukf.net/), [links page (with a working Flash widget!)](https://web.archive.org/web/20120125020826/http://www.spacewardstudios.ukf.net/links.htm)
+- [Punk History > Spaceward - Mike Kemp](https://www.punk77.co.uk/punkhistory/spaceward.htm)
+- [Punk History > Raw Records - Part 3](https://www.punk77.co.uk/raw/raw_records_history_part3.htm)
