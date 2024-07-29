@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c626c951c3c5c994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spaceward-research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "spaceward-research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "spaceward-research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "spaceward-research.md"
               }
             }
           }
@@ -183,11 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef9518570201bbf9",
+  "active": "c626c951c3c5c994",
   "lastOpenFiles": [
+    "README.md",
+    "spaceward-research.md",
     "playgrounds.md",
     "registries.md",
-    "README.md",
     "home.md",
     "community-archives.md",
     "format-id.md",
