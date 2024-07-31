@@ -89,3 +89,7 @@ done
 Which converted all the .R files to .PNG files (as per the manual via [http://justsolve.archiveteam.org/wiki/Image_Alchemy](http://justsolve.archiveteam.org/wiki/Image_Alchemy) ) as attached in the ZIP!
 
 Now, the question is, are these very early examples of a glitch aesthetic, or are this data problems with the floppy imaging process?
+
+Links:
+
+ - https://blog.dshr.org/2019/08/wine-on-windows-10.html
