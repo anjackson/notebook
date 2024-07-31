@@ -52,6 +52,12 @@ Hard to tell, the format is not easy to understand. I attempted a little reverse
 - [Overview of Satori FilmFX 64](https://web.archive.org/web/20011028084009fw_/http://www.pawprint.demon.co.uk/html/body_satori_thoughts.html)
 - [Review of Satori WebFX 2000](https://www.irt.org/software/sw020/)
 - [A disk image](http://www.win3x.org/win3board/viewtopic.php?t=27398&view=min)
+- [A gallery](https://web.archive.org/web/20070813084252/http://www.animation-backgrounds.com/soft/software1.html) [via HN](https://news.ycombinator.com/item?id=36207379)
+
+
+> The next morning the final image had been rendered and the resulting file stored to disk. Ben estimates that this took around 5 hours on a 266MHz Alpha. "This may appear to be time lost, but it was actually time gained, as I continued with the next project, right after hitting the render button". 
+>
+> https://web.archive.org/web/20001025201654/http://satoripaint.com/Tutorials/Workingwithverylargeimages.html
 
 
 ## Spaceward Studios
@@ -63,3 +69,23 @@ There's a bit more online about the music company.
 - [Spaceward Studios 1972-1988](https://web.archive.org/web/20130114003814/http://www.spacewardstudios.ukf.net/), [links page (with a working Flash widget!)](https://web.archive.org/web/20120125020826/http://www.spacewardstudios.ukf.net/links.htm)
 - [Punk History > Spaceward - Mike Kemp](https://www.punk77.co.uk/punkhistory/spaceward.htm)
 - [Punk History > Raw Records - Part 3](https://www.punk77.co.uk/raw/raw_records_history_part3.htm)
+
+
+## Conversion with DOSBox
+
+I have Ubuntu Linux installed inside Windows, and on there I followed these instructions: [https://wiki.winehq.org/Ubuntu](https://wiki.winehq.org/Ubuntu)
+
+Then with a bit of prompting from WINE, I then needed `sudo apt-get install dosbox` as well...
+
+After which I was able to run this script....
+
+```bash
+#!/bin/bash
+for filename in *.R; do
+    wine ../../Image\ Alchemy.ver.1.11.0.English/ALCHEMY.EXE "$filename" ---n
+done
+```
+
+Which converted all the .R files to .PNG files (as per the manual via [http://justsolve.archiveteam.org/wiki/Image_Alchemy](http://justsolve.archiveteam.org/wiki/Image_Alchemy) ) as attached in the ZIP!
+
+Now, the question is, are these very early examples of a glitch aesthetic, or are this data problems with the floppy imaging process?
