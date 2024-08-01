@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71081b1d7425adc0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,7 +205,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c626c951c3c5c994",
+  "active": "71081b1d7425adc0",
   "lastOpenFiles": [
     "README.md",
     "spaceward-research.md",
