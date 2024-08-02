@@ -1,4 +1,7 @@
+# Spaceward Graphics
+
 I found a more recent page with some details about the companies at: http://www.sintefex.com/?targ=contact&src=home
+
 
 > "**Mike Kemp has had a long involvement with audio and the electronic arts dating from his university days when after graduating from Emmanuel College, Cambridge, UK, with a Master of Arts in mathematics and computer science he turned down a research post at the Cambridge University Computer Laboratory to found his first studio business. He has mixed practical audio engineering with technical research and development in computer, audio and video fields.**
 >
