@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "c626c951c3c5c994",
+            "id": "b358b1425b5ed2f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c626c951c3c5c994",
+  "active": "b358b1425b5ed2f0",
   "lastOpenFiles": [
+    "home.md",
+    "registries.md",
     "README.md",
+    "registries/pronom.md",
     "spaceward-research.md",
     "playgrounds.md",
-    "registries.md",
-    "home.md",
     "community-archives.md",
     "format-id.md",
     "automated-actions.md",
-    "registries/pronom.md",
     "acorn-migrations.md"
   ]
 }
